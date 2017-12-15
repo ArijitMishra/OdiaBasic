@@ -13,6 +13,16 @@ Pre-requisites
 - Android Support Repository v23.3.0
 
 
+Further development
+-------------------
+-To improve the audio quality
+
+-To improve on the prounounciation and translations
+
+-Design for a new icon suitable for the context
+
+
+
 
 License
 -------
