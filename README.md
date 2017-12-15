@@ -2,6 +2,7 @@ Odia App
 ===================================
 
 This app displays lists of vocabulary words for the user to learn the Odia language.
+
 Made with the help of a udacity course.
 
 Pre-requisites
